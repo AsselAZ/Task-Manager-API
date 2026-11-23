@@ -1,6 +1,6 @@
 namespace TaskManagerAPI.Models;
 
-//class  structure
+//data modell
 public class TodoItem
 {
     public int Id { get; set; }

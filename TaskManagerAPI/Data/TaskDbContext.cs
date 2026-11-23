@@ -3,7 +3,8 @@ using TaskManagerAPI.Models;
 
 namespace TaskManagerAPI.Data;
 
-// implements from Db context 
+// implements from Db context
+//also said db connection 
 public class TaskDbContext : DbContext
 {
     //dbcontextOptions holds settings for db connection
